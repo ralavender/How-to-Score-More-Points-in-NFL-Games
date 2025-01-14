@@ -1,2 +1,3 @@
 # How-to-Score-More-Points-in-NFL-Games
-n/a for now...
+For our research project, we chose to investigate the factors that contribute to passing plays in the National Football League (NFL) resulting in positive expected points added (EPA), to identify which factors ultimately impact EPA the most. Expected points (EP) is a metric used in the NFL that represents the number of points a team is expected to score on the current drive. The expected points added metric measures how a team’s expected points value changes on an individual play. Each play in an NFL game has many different moving parts, such as offensive and defensive formation, personnel, down, and distance to the first down marker. We were interested in developing a method to determine which factors on the football field are most important to determining a successful passing play, using EPA as our measure of success.
+
